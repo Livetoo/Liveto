@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Inter";
+  background-color: #1E1E1E;
+}
+.header  {
+  background-image: url("/Images/banner.png");
+  background-position: top center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.vid {
+  font-family: "Space Mono", monospace;
+}

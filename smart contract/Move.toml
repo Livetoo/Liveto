@@ -1,0 +1,8 @@
+[package]
+name = "liveto-vote-stake"
+version = "0.1.0"
+authors = ["Your Name"]
+license = "MIT"
+
+[addresses]
+liveto = "0x0"  # Replace with your on-chain contract address when deploying
